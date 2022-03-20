@@ -1,5 +1,5 @@
 # Sqlite-Python-Movie-Database-MuleSoft
 Movie Database using Sqlite Python and Jupiter notebooks IDE
 
-db folder contains the movies database,
+db folder contains the movies database and
 python sqlite program folder contains the Python Sqlite code for the movies database
